@@ -5,6 +5,9 @@ td, th {
   body {
   background-image: url("../images/space.avif");
 }
+.myClass {
+	color: white;
+}
 
 #page-wrapper {
   width: 960px;
